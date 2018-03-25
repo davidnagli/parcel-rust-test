@@ -1,7 +1,7 @@
 # Parcel Rust Test
 
 How to use:
-````
+```
 yarn build
 ```
 
