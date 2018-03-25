@@ -1,0 +1,10 @@
+{
+  "name": "parcel-rust-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+      "build": "parcel build src/index.js --target node",
+      "start": "node dist/index.js"
+  }
+}
